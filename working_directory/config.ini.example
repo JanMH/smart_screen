@@ -1,0 +1,9 @@
+[main]
+sample_rate=12000
+voltage=220
+frequency=50
+data_set_start_time=2011-10-20 11:58:32.6234999999996440291 # not necessary for live data
+[data]
+max_data_points_in_queue=100000
+data_points_stored_before_event=6000
+data_points_stored_of_event=12000

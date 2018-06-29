@@ -1,0 +1,12 @@
+[submodule "external/dlib"]
+	path = external/dlib
+	url = https://github.com/davisking/dlib
+[submodule "external/libnabo"]
+	path = external/libnabo
+	url = https://github.com/ethz-asl/libnabo
+[submodule "external/cpp-netlib"]
+	path = external/cpp-netlib
+	url = https://github.com/cpp-netlib/cpp-netlib
+[submodule "external/spdlog"]
+	path = external/spdlog
+	url = https://github.com/gabime/spdlog

@@ -1,0 +1,29 @@
+Dependencies:
+=============
+
+To build this program you need to install:
+HDF5    - including the C++ bindings
+Boost   - 1.60 or higher
+g++     - with C++14 support
+CMake   - 2.8 or higher
+doxygen  
+eigen3  
+
+All other dependencies are shipped in the folder external.
+
+On Ubuntu 16.04 and 17.04 this should install all dependencies:
+`apt install -y build-essential g++ libhdf5-dev libeigen3-dev doxygen cmake libboost-all-dev libssl-dev libusb-1.0-0-dev libftdi1-dev`
+
+Building:
+=========
+
+To build the project, simply run:
+
+`./build.sh`
+
+All files will the be built in the folder "<project dir>/build"
+
+`make doc`
+
+
+

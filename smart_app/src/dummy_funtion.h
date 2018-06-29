@@ -1,0 +1,7 @@
+
+#ifndef SMART_SCREEN_DUMMY_FUNTION_H
+#define SMART_SCREEN_DUMMY_FUNTION_H
+
+void smart_app_dummy();
+
+#endif //SMART_SCREEN_DUMMY_FUNTION_H

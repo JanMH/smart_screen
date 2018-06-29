@@ -1,0 +1,10 @@
+#ifndef SMART_SCREEN_CLASSIFICATIONVISUALIZER_H
+#define SMART_SCREEN_CLASSIFICATIONVISUALIZER_H
+
+template<typename DataPointType>
+class ClassificationVisualizer {
+public:
+
+};
+
+#endif //SMART_SCREEN_CLASSIFICATIONVISUALISER_H
